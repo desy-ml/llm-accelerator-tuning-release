@@ -1,6 +1,6 @@
 accelerate
 black
-git+https://github.com/desy-ml/cheetah.git
+cheetah-accelerator==0.6.2
 flake8
 gym
 gymnasium
