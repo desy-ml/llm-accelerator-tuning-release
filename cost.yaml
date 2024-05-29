@@ -1,0 +1,31 @@
+optimisation:
+  gpt4:
+    cost: 26.85
+    currency: USD
+    num_runs: 9
+  gpt4turbo:
+    cost: 3.68
+    currency: USD
+    num_runs: 5
+  gpt35turbo:
+    cost: 0.46
+    currency: USD
+    num_runs: 9
+explained:
+  gpt4:
+    cost: 32.10
+    currency: USD
+    num_runs: 6
+  gpt4turbo:
+    cost: 10.84
+    currency: USD
+    num_runs: 6
+  gpt35turbo:
+    cost: 0.54
+    currency: USD
+    num_runs: 6
+cot:
+  gpt4turbo:
+    cost: 23.46
+    currency: USD
+    num_runs: 9

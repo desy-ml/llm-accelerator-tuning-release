@@ -1,0 +1,7 @@
+{
+    "files.watcherExclude": {
+        "**/plots/**": true,
+        "**/recordings/**": true
+    },
+    "python.analysis.typeCheckingMode": "off"
+}

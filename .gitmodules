@@ -1,0 +1,4 @@
+[submodule "ares_transverse_tuning"]
+	path = ares_transverse_tuning
+	url = git@gitlab.desy.de:msk-ipc/helmholtz-ai-aa/ares-transverse-tuning.git
+	branch = xopt-integration

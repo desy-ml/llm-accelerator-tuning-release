@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.ipynb_checkpoints
+__pycache__
+wandb
+
+checkpoint-77100
+data
+offload
